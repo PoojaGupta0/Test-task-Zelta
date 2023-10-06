@@ -8,7 +8,10 @@ Playwright:- An enhanced version of playwright.
   
 
 ### TestTask
-For the TestTasks please Goto the test_task.txt file
+
+```For the TestTasks please Goto the test_task.txt file
+(I've imporved code quality and wrote the test cases)
+```
 
 ### Prerequisites
 
@@ -39,5 +42,25 @@ To install the specific version of the python
    run 'python test_cases.py'
    ```
 
-
-
+### Structure:
+```
+.
+├── copyright.txt
+├── playwright_plus
+│   ├── browser_surf.py
+│   ├── __init__.py
+│   ├── test_cases.py
+│   ├── utils
+│   │   ├── exceptions.py
+│   │   ├── __init__.py
+│   └── web_intercept.py
+├── README.md
+├── requirements.txt
+├── setup.py
+└── test_task.txt
+```
+explanation :
+test_cases.py - Containinig the all the testcases
+utils - contains the common function files like exceptions.
+setup.py - python script
+requirements.txt - contains the requirements
