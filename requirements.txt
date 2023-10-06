@@ -1,2 +1,8 @@
-# public libraries
-playwright==1.25.2
+click==8.1.7
+greenlet==2.0.2
+Pillow==10.0.1
+playwright==1.38.0
+pyee==9.0.4
+svgwrite==1.4.3
+Tree==0.2.4
+typing_extensions==4.8.0
