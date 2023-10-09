@@ -9,8 +9,9 @@ Playwright:- An enhanced version of playwright.
 
 ### TestTask
 
-```For the TestTasks please Goto the test_task.txt file
-(I've imporved code quality and wrote the test cases)
+```
+For the TestTasks please Goto the test_task.txt file, please read for more details
+I've improved code quality and written the test cases
 ```
 
 ### Prerequisites
